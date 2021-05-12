@@ -2,7 +2,7 @@
 
 This project holds the samples of how to add and animate a customer marker using Syncfusion Flutter Maps widget.
 
-# Steps to run:
+## Steps to run:
 
 1. Checkout and open the project in your favorite editor.
 
@@ -14,7 +14,7 @@ This project holds the samples of how to add and animate a customer marker using
 
    $ flutter run
 
-# Get the demo application
+## Get the demo application
 
 Explore the full capabilities of our Flutter widgets on your device by installing our sample browser applications from the below app stores, and view samples code in GitHub.
 
@@ -24,7 +24,7 @@ Explore the full capabilities of our Flutter widgets on your device by installin
 * [Windows](https://www.microsoft.com/en-us/p/syncfusion-flutter-gallery/9nhnbwcsf85d?activetab=pivot:overviewtab)
 * [Linux](https://snapcraft.io/syncfusion-flutter-gallery)
 
-# Useful links
+## Useful links
 
 Take a look at the following to learn more about Syncfusion Flutter Maps:
 
@@ -32,3 +32,6 @@ Take a look at the following to learn more about Syncfusion Flutter Maps:
 * [User guide documentation for Maps](https://help.syncfusion.com/flutter/maps)
 * [Knowledge base](https://www.syncfusion.com/kb/flutter/sfmaps)
 * [pub.dev](https://pub.dev/packages/syncfusion_flutter_maps)
+
+## Blog reference
+[How to Add Animated and Interactive Custom Map Markers in Flutter Maps](https://www.syncfusion.com/blogs/post/add-animated-and-interactive-custom-map-markers-in-flutter-maps.aspx)
