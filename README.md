@@ -1,4 +1,4 @@
-# How to add and animate a marker using Flutter maps
+# How to add and animate a marker using Flutter Maps
 
 This repository contains a sample to add and animate a marker using [Syncfusion Flutter Maps](https://help.syncfusion.com/flutter/maps/getting-started) widget.
 
