@@ -1,37 +1,28 @@
-# Add and animate a marker using Flutter maps
+# How to add and animate a marker using Flutter Maps
 
-This project holds the samples of how to add and animate a customer marker using Syncfusion Flutter Maps widget.
+This repository contains a sample to add and animate a marker using [Syncfusion Flutter Maps](https://help.syncfusion.com/flutter/maps/getting-started) widget.
 
-## Steps to run:
+## Syncfusion controls:
 
-1. Checkout and open the project in your favorite editor.
+This project used the following Syncfusion widget(s):
+* [SfMaps](https://www.syncfusion.com/flutter-widgets/flutter-maps)
 
-2. Run the below command to get the required package.
+## Supported platforms
 
-   $ flutter pub get
+Refer to the following link to know about the supported platform - [Platforms](https://help.syncfusion.com/flutter/system-requirements#supported-platforms)
 
-3. Run the below command to run the project.
+## Requirements to run the sample
 
-   $ flutter run
+Refer to the following link to know about system requirements - [System Requirements](https://help.syncfusion.com/flutter/system-requirements)
 
-## Get the demo application
+## How to run the sample
 
-Explore the full capabilities of our Flutter widgets on your device by installing our sample browser applications from the below app stores, and view samples code in GitHub.
+1. Clone the sample and open it in preferred IDE.
 
-* [Android](https://play.google.com/store/apps/details?id=com.syncfusion.flutter.examples)
-* [iOS](https://apps.apple.com/us/app/syncfusion-flutter-ui-widgets/id1475231341)
-* [Web](https://flutter.syncfusion.com/#/)
-* [Windows](https://www.microsoft.com/en-us/p/syncfusion-flutter-gallery/9nhnbwcsf85d?activetab=pivot:overviewtab)
-* [Linux](https://snapcraft.io/syncfusion-flutter-gallery)
+   *Note: If you download the sample using the "Download ZIP" option, right-click it, select Properties, and then select Unblock.*
 
-## Useful links
+2. Run the application.
 
-Take a look at the following to learn more about Syncfusion Flutter Maps:
+## License
 
-* [Syncfusion Flutter Maps product page](https://www.syncfusion.com/flutter-widgets/maps)
-* [User guide documentation for Maps](https://help.syncfusion.com/flutter/maps)
-* [Knowledge base](https://www.syncfusion.com/kb/flutter/sfmaps)
-* [pub.dev](https://pub.dev/packages/syncfusion_flutter_maps)
-
-## Blog reference
-[How to Add Animated and Interactive Custom Map Markers in Flutter Maps](https://www.syncfusion.com/blogs/post/add-animated-and-interactive-custom-map-markers-in-flutter-maps.aspx)
+Syncfusion has no liability for any damage or consequence that may arise by using or viewing the samples. The samples are for demonstrative purposes, and if you choose to use or access the samples, you agree to not hold Syncfusion liable, in any form, for any damage that is related to use, for accessing, or viewing the samples. By accessing, viewing, or seeing the samples, you acknowledge and agree Syncfusion’s samples will not allow you seek injunctive relief in any form for any claim related to the sample. If you do not agree to this, do not view, access, utilize, or otherwise do anything with Syncfusion’s samples.
