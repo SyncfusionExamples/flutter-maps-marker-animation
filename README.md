@@ -2,6 +2,8 @@
 
 This repository contains a sample to add and animate a marker using [Syncfusion Flutter Maps](https://help.syncfusion.com/flutter/maps/getting-started) widget.
 
+Please refer to the blog through this [link](https://www.syncfusion.com/blogs/post/add-animated-and-interactive-custom-map-markers-in-flutter-maps).
+
 ## Syncfusion controls:
 
 This project used the following Syncfusion widget(s):
